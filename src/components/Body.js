@@ -12,7 +12,7 @@ const Body = () =>{
 
 // Local  state varriable  - super powerful varriable
 
-const [listRestuarnt,setListRestuarnt] = useState(mockDataNew);
+const [listRestuarnt,setListRestuarnt] = useState(resList);
  
 
 useEffect( ()=>{
